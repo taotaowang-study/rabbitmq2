@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: apringboot-producer
+  rabbitmq:
+    host: 47.99.107.252
+    port: 5672
+    username: tao
+    password: tao
+    virtual-host: /
